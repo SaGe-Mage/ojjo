@@ -1,0 +1,14 @@
+.header__search {
+  background: #00000000;
+  border: none;
+  font-family: "Gilroy", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #ffffff;
+  width: 50px;
+}
+
+.header__search::placeholder {
+  color: #ffffff;
+}

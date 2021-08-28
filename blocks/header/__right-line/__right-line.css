@@ -1,0 +1,5 @@
+.header__right-line {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
