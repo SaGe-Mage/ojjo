@@ -1,0 +1,11 @@
+.header__brand {
+  border-right: 1px solid #FFFFFF;
+  padding-right: 15px;
+  margin-right: 15px;
+}
+
+.header__brand:last-child {
+  border: none;
+  padding: 0;
+  margin: 0;
+}

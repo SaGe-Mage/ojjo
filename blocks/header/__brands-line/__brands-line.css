@@ -1,0 +1,8 @@
+.header__brands-line {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  max-width: 1110px;
+  margin: 30px auto 0;
+}
