@@ -1,0 +1,11 @@
+.events__navigation-item_is-active {
+  color: #FFFFFF;
+  background: #333333;
+
+  height: 61px;
+  border: none;
+}
+
+.events__navigation-item_is-active::after {
+  display: none;
+}

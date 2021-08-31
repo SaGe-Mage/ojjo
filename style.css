@@ -15,3 +15,12 @@
 @import url("blocks/header/__brand/__brand.css");
 @import url("blocks/content/content.css");
 @import url("blocks/events/events.css");
+@import url("blocks/events/__title/__title.css");
+@import url("blocks/events/__subtitle/__subtitle.css");
+@import url("blocks/events/__navigation-list/__navigation-list.css");
+@import url("blocks/events/__navigation-item/__navigation-item.css");
+@import url("blocks/events/__navigation-item/_is-active/_is-active.css");
+@import url("blocks/events/__gallery/__gallery.css");
+@import url("blocks/events/__gallery-item/__gallery-item.css");
+@import url("blocks/events/__gallery-name/__gallery-name.css");
+@import url("blocks/events/__gallery-img/__gallery-img.css");

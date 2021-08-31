@@ -1,0 +1,8 @@
+.events__gallery {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, 350px);
+  grid-auto-rows: minmax(280px, 1fr);
+  gap: 30px;
+  margin-top: 55px;
+}

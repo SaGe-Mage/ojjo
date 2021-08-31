@@ -1,0 +1,6 @@
+.events__navigation-list {
+  margin: 60px  auto 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+}
