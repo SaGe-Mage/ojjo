@@ -1,0 +1,17 @@
+.our-salon__btn {
+  font-family: "Gilroy", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #333333;
+  display: block;
+  padding: 15px 35px;
+  margin: 60px auto 0;
+
+  background: #FFFFFF;
+  border: 1px solid #333333;
+  box-sizing: border-box;
+}

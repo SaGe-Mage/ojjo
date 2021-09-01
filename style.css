@@ -24,3 +24,9 @@
 @import url("blocks/events/__gallery-item/__gallery-item.css");
 @import url("blocks/events/__gallery-name/__gallery-name.css");
 @import url("blocks/events/__gallery-img/__gallery-img.css");
+@import url("blocks/our-salon/our-salon.css");
+@import url("blocks/our-salon/__content/__content.css");
+@import url("blocks/our-salon/__title/__title.css");
+@import url("blocks/our-salon/__subtitle/__subtitle.css");
+@import url("blocks/our-salon/__paragraph/__paragraph.css");
+@import url("blocks/our-salon/__btn/__btn.css");
