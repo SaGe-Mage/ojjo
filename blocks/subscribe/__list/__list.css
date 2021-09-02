@@ -1,0 +1,13 @@
+.subscribe__list {
+  font-family: "Gilroy", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #FFFFFF;
+  list-style: outside url("../../../images/subscribe__icon.svg");
+  padding-left: 20px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}

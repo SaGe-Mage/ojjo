@@ -45,3 +45,14 @@
 @import url("blocks/gallery/__item/__item.css");
 @import url("blocks/gallery/__item/_size/gallery__item_size_large.css");
 @import url("blocks/gallery/__item/_size/gallery__item_size_small.css");
+@import url("blocks/subscribe/subscribe.css");
+@import url("blocks/subscribe/__content/__content.css");
+@import url("blocks/subscribe/__title/__title.css");
+@import url("blocks/subscribe/__subtitle/__subtitle.css");
+@import url("blocks/subscribe/__info/__info.css");
+@import url("blocks/subscribe/__list/__list.css");
+@import url("blocks/subscribe/__item/__item.css");
+@import url("blocks/subscribe/__form-wrap/__form-wrap.css");
+@import url("blocks/subscribe/__form/__form.css");
+@import url("blocks/subscribe/__form-email/__form-email.css");
+@import url("blocks/subscribe/__form-btn/__form-btn.css");

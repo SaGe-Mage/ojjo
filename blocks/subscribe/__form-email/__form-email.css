@@ -1,0 +1,13 @@
+.subscribe__form-email {
+  padding-left: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+
+  font-family: "Gilroy", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(90, 90, 90, 0.5);
+}
