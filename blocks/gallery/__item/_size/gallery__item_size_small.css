@@ -1,0 +1,15 @@
+.gallery__item_size_small1 {
+  grid-area: small1;
+}
+
+.gallery__item_size_small2 {
+  grid-area: small2;
+}
+
+.gallery__item_size_small3 {
+  grid-area: small3;
+}
+
+.gallery__item_size_small4 {
+  grid-area: small4;
+}

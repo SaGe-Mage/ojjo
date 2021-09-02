@@ -38,3 +38,10 @@
 @import url("blocks/blog/__gallery-name/__gallery-name.css");
 @import url("blocks/blog/__gallery-img/__gallery-img.css");
 @import url("blocks/blog/__btn/__btn.css");
+@import url("blocks/gallery/gallery.css");
+@import url("blocks/gallery/__title/__title.css");
+@import url("blocks/gallery/__subtitle/__subtitle.css");
+@import url("blocks/gallery/__grid/__grid.css");
+@import url("blocks/gallery/__item/__item.css");
+@import url("blocks/gallery/__item/_size/gallery__item_size_large.css");
+@import url("blocks/gallery/__item/_size/gallery__item_size_small.css");

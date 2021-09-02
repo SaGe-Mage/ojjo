@@ -1,0 +1,9 @@
+.gallery__grid {
+  margin-top: 60px;
+  display: grid;
+  grid-template-areas:
+  "large1 large1 small1 small2"
+  "small3 small4 large2 large2";
+  grid-template-columns: repeat(4, 277px);
+  grid-template-rows: repeat(2, 1fr);
+}

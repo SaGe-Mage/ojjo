@@ -1,0 +1,7 @@
+.gallery__item_size_large1 {
+  grid-area: large1;
+}
+
+.gallery__item_size_large2 {
+  grid-area: large2;
+}
