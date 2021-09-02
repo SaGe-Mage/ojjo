@@ -1,0 +1,8 @@
+.blog__gallery {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, 350px);
+  grid-auto-rows: minmax(370px, 1fr);
+  gap: 30px;
+  margin-top: 60px;
+}

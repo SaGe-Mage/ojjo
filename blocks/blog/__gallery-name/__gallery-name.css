@@ -1,0 +1,13 @@
+.blog__gallery-name {
+  padding: 0;
+  margin: 0;
+  font-family: "Gilroy", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 140%;
+  text-align: center;
+  color: #FFFFFF;
+  max-width: 210px;
+  margin-bottom: 35px;
+}

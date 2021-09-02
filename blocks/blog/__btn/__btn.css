@@ -1,0 +1,17 @@
+.blog__btn {
+  font-family: "Gilroy", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+  display: block;
+  padding: 15px 35px;
+  margin: 60px auto 0;
+
+  background: #333333;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+}
