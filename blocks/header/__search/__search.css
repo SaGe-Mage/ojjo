@@ -5,8 +5,8 @@
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  color: #ffffff;
-  width: 50px;
+  color: #FFFFFF;
+  max-width: 65px;
 }
 
 .header__search::placeholder {

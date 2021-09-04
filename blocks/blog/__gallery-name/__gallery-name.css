@@ -10,4 +10,5 @@
   color: #FFFFFF;
   max-width: 210px;
   margin-bottom: 35px;
+  z-index: 1;
 }
