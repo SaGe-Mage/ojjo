@@ -1,0 +1,9 @@
+.footer__contact_type_email {
+  display: flex;
+  align-items: center;
+}
+
+.footer__contact_type_email::before {
+  content: url("../../../../images/mail.svg");
+  margin-right: 20px;
+}

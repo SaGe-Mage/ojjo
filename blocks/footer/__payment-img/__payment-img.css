@@ -1,0 +1,8 @@
+.footer__payment-img {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  margin: 25px 0 0;
+}

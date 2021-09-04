@@ -1,0 +1,9 @@
+.footer__contact_type_phone {
+  display: flex;
+  align-items: center;
+}
+
+.footer__contact_type_phone::before {
+  content: url("../../../../images/phone.svg");
+  margin-right: 20px;
+}
